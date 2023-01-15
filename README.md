@@ -24,3 +24,5 @@ Methods (Functions)
 Arrays and Strings
 Rule of Three, Creating Objects Dynamically, private fields accessed using get/set functions
 makes use of multiple files for classes and OOP
+
+demo: https://replit.com/@EmilyZhang8/Poker-Game#Deck.cpp
