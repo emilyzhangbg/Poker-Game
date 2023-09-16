@@ -9,7 +9,6 @@ The units we learned include:
 - Object-Oriented Programming
 - Inheritance and Polymorphism
 
-#Poker Game
 Two player game which 
 - creates decks
 - hands out cards to each player
